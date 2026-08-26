@@ -1,0 +1,7 @@
+{
+  "id": "supervised-learning",
+  "name": "Supervised Learning",
+  "aliases": ["classification", "regression basics"],
+  "cluster": "machine-learning",
+  "prerequisites": ["python-basics", "statistics", "linear-algebra"]
+}

@@ -1,0 +1,14 @@
+{
+  "learner_id": "learner-alex-001",
+  "raw_text": "I'm a CS student, decent at Python, finished a basic OOP course, want an AI/ML role in about 4 months.",
+  "interests": ["machine-learning", "ai"],
+  "experience_level": "beginner",
+  "hours_per_week": 10,
+  "target_date": "2026-12-26",
+  "completed_skill_ids": ["python-basics", "python-oop"],
+  "unmapped": ["a Kaggle notebook on the Titanic dataset"],
+  "mastery": {
+    "python-basics": 0.85,
+    "python-oop": 0.72
+  }
+}
