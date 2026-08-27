@@ -1,0 +1,14 @@
+[
+  { "id": "python-basics", "name": "Python Basics", "cluster": "programming", "prerequisites": [] },
+  { "id": "python-oop", "name": "Python OOP", "cluster": "programming", "prerequisites": ["python-basics"] },
+  { "id": "sql", "name": "SQL", "cluster": "data", "prerequisites": [] },
+  { "id": "data-wrangling", "name": "Data Wrangling", "cluster": "data", "prerequisites": ["python-basics"] },
+  { "id": "statistics", "name": "Statistics", "cluster": "math", "prerequisites": [] },
+  { "id": "linear-algebra", "name": "Linear Algebra", "cluster": "math", "prerequisites": [] },
+  { "id": "calculus", "name": "Calculus", "cluster": "math", "prerequisites": ["linear-algebra"] },
+  { "id": "supervised-learning", "name": "Supervised Learning", "cluster": "machine-learning", "prerequisites": ["python-basics", "statistics", "linear-algebra"] },
+  { "id": "unsupervised-learning", "name": "Unsupervised Learning", "cluster": "machine-learning", "prerequisites": ["supervised-learning"] },
+  { "id": "neural-networks", "name": "Neural Networks", "cluster": "machine-learning", "prerequisites": ["supervised-learning", "calculus"] },
+  { "id": "docker", "name": "Docker", "cluster": "devops", "prerequisites": [] },
+  { "id": "ci-cd", "name": "CI/CD", "cluster": "devops", "prerequisites": ["docker"] }
+]
