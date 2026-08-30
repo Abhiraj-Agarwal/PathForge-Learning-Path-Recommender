@@ -1,3 +1,5 @@
 pydantic==2.9.2
 pytest==8.3.3
 networkx==3.6.1
+groq==1.7.0
+google-genai==2.20.0
