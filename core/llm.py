@@ -13,8 +13,8 @@ from dataclasses import dataclass
 from typing import Callable
 
 DEFAULT_MODEL_BY_PROVIDER = {
-    "groq": "llama-3.3-70b-versatile",
-    "gemini": "gemini-2.0-flash",
+    "groq": "openai/gpt-oss-120b",
+    "gemini": "gemini-3.6-flash",
 }
 
 
@@ -77,10 +77,16 @@ def _call_groq(client: LLMClient, prompt: str, system: str | None, temperature: 
 
 
 def _call_gemini(client: LLMClient, prompt: str, system: str | None, temperature: float) -> str:
+    import httpx
     from google import genai
     from google.genai import types
 
-    response = genai.Client(api_key=client.api_key).models.generate_content(
+    # google-genai's own default httpx client setup has a known bug where the
+    # underlying connection is already closed before the first request goes
+    # out; passing an explicit httpx.Client works around it.
+    http_options = types.HttpOptions(httpx_client=httpx.Client(timeout=60))
+    genai_client = genai.Client(api_key=client.api_key, http_options=http_options)
+    response = genai_client.models.generate_content(
         model=client.model,
         contents=prompt,
         config=types.GenerateContentConfig(system_instruction=system, temperature=temperature),

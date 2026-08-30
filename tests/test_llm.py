@@ -10,8 +10,8 @@ def test_unsupported_provider_rejected():
 
 
 def test_default_model_assigned_per_provider():
-    assert LLMClient(provider="groq", api_key="x").model == "llama-3.3-70b-versatile"
-    assert LLMClient(provider="gemini", api_key="x").model == "gemini-2.0-flash"
+    assert LLMClient(provider="groq", api_key="x").model == "openai/gpt-oss-120b"
+    assert LLMClient(provider="gemini", api_key="x").model == "gemini-3.6-flash"
 
 
 def test_explicit_model_overrides_default():
