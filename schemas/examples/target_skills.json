@@ -1,0 +1,9 @@
+{
+  "goal_text": "I'm a CS student, decent at Python, want an AI/ML role.",
+  "targets": [
+    { "skill_id": "supervised-learning", "demand": 0.72, "evidence_count": 36 },
+    { "skill_id": "statistics", "demand": 0.7, "evidence_count": 35 },
+    { "skill_id": "linear-algebra", "demand": 0.65, "evidence_count": 33 },
+    { "skill_id": "docker", "demand": 0.68, "evidence_count": 34 }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "course-sklearn-101",
+  "title": "Supervised Learning with scikit-learn",
+  "provider": "Coursera",
+  "url": "https://www.coursera.org/learn/supervised-learning-sklearn",
+  "description": "Hands-on introduction to classification and regression using scikit-learn.",
+  "level": "beginner",
+  "rating": 4.6,
+  "duration_hours": 18,
+  "skill_tags": ["supervised-learning"]
+}

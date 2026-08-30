@@ -1,0 +1,56 @@
+{
+  "learner_id": "learner-alex-001",
+  "path": {
+    "learner_id": "learner-alex-001",
+    "target_skill_ids": ["supervised-learning", "statistics", "linear-algebra", "docker"],
+    "ancestor_closure": ["supervised-learning", "statistics", "linear-algebra", "docker", "python-basics"],
+    "gap_nodes": ["supervised-learning", "statistics", "linear-algebra", "docker"],
+    "ordering": ["statistics", "docker", "linear-algebra", "supervised-learning"],
+    "milestones": [
+      {
+        "index": 0,
+        "skills": [
+          { "skill_id": "statistics", "order": 0, "demand": 0.7, "course_ids": [] },
+          { "skill_id": "docker", "order": 1, "demand": 0.68, "course_ids": [] },
+          { "skill_id": "linear-algebra", "order": 2, "demand": 0.65, "course_ids": [] }
+        ],
+        "project": "Exploratory data analysis on a public dataset",
+        "assessment_item_ids": ["item-statistics-01", "item-docker-01", "item-linear-algebra-01"],
+        "estimated_start_week": 0,
+        "estimated_end_week": 3
+      },
+      {
+        "index": 1,
+        "skills": [
+          { "skill_id": "supervised-learning", "order": 3, "demand": 0.72, "course_ids": ["course-sklearn-101"] }
+        ],
+        "project": "Train and evaluate a classifier on a Kaggle dataset",
+        "assessment_item_ids": ["item-supervised-learning-01"],
+        "estimated_start_week": 3,
+        "estimated_end_week": 5
+      }
+    ],
+    "unsupported_targets": [],
+    "generated_at": "2026-08-26T10:00:00Z"
+  },
+  "mastery": {
+    "python-basics": 0.85,
+    "python-oop": 0.72,
+    "statistics": 0.2,
+    "linear-algebra": 0.15,
+    "docker": 0.1,
+    "supervised-learning": 0.1
+  },
+  "demand": {
+    "statistics": 0.7,
+    "linear-algebra": 0.65,
+    "docker": 0.68,
+    "supervised-learning": 0.72
+  },
+  "next_actions": [
+    { "skill_id": "statistics", "order": 0, "demand": 0.7, "course_ids": [] },
+    { "skill_id": "docker", "order": 1, "demand": 0.68, "course_ids": [] },
+    { "skill_id": "linear-algebra", "order": 2, "demand": 0.65, "course_ids": [] }
+  ],
+  "completed_skill_ids": ["python-basics", "python-oop"]
+}
