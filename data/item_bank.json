@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "item_001",
+    "skill_id": "programming_basics",
+    "cluster": "foundations",
+    "text": "Which statement best describes Programming Basics?",
+    "options": [
+      "Making pages load and respond quickly for real users.",
+      "Running controlled experiments to decide which version wins.",
+      "The maths of vectors, matrices, and their transformations.",
+      "Writing step-by-step instructions a computer can execute."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_002",
+    "skill_id": "python_basics",
+    "cluster": "foundations",
+    "text": "Which statement best describes Python Fundamentals?",
+    "options": [
+      "Using NumPy and Pandas to manipulate numeric and tabular data.",
+      "Training multi-layer neural networks by backpropagating prediction errors.",
+      "Reading and updating the page tree the browser renders.",
+      "A general-purpose programming language known for clean, readable syntax."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_003",
+    "skill_id": "data_structures",
+    "cluster": "foundations",
+    "text": "Which statement best describes Data Structures & Algorithms?",
+    "options": [
+      "Organising data in ways that make storage and retrieval efficient.",
+      "Tracking shared UI state so components stay in sync.",
+      "Building and training deep models with libraries like PyTorch or TensorFlow.",
+      "Bundling and optimising frontend assets with Vite or Webpack."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_004",
+    "skill_id": "git_github",
+    "cluster": "foundations",
+    "text": "Which statement best describes Git & GitHub?",
+    "options": [
+      "Training multi-layer neural networks by backpropagating prediction errors.",
+      "Building componentised UIs with React, Vue, or Svelte.",
+      "Tracking changes to code over time and collaborating through a hosted platform.",
+      "Using NumPy and Pandas to manipulate numeric and tabular data."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_005",
+    "skill_id": "command_line",
+    "cluster": "foundations",
+    "text": "Which statement best describes Command Line & Linux?",
+    "options": [
+      "Driving a computer by typing text commands into a shell like Bash.",
+      "Training models on labelled examples to predict outcomes for new data.",
+      "Authoring interactive dashboards with Tableau, Power BI, or Looker.",
+      "Using hypothesis tests and regression to make data-driven decisions."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_006",
+    "skill_id": "database_fundamentals",
+    "cluster": "foundations",
+    "text": "Which statement best describes Database Fundamentals?",
+    "options": [
+      "Provisioning compute and storage on AWS, GCP, or Azure.",
+      "Designing relational stores of data organised into tables with keys.",
+      "Bundling and optimising frontend assets with Vite or Webpack.",
+      "Building backend applications quickly with FastAPI, Flask, or Django."
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_007",
+    "skill_id": "sql_basics",
+    "cluster": "foundations",
+    "text": "Which statement best describes SQL Basics?",
+    "options": [
+      "Writing window functions and optimising slow queries at scale.",
+      "Using a query language to read and manipulate data stored in relational databases.",
+      "Bundling and optimising frontend assets with Vite or Webpack.",
+      "Turning analysis into a clear narrative an audience can act on."
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_008",
+    "skill_id": "linear_algebra",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Linear Algebra?",
+    "options": [
+      "Exchanging data between clients and servers over HTTP with JSON.",
+      "Writing step-by-step instructions a computer can execute.",
+      "The maths of vectors, matrices, and their transformations.",
+      "Building the dashboards and reports that run a business day-to-day."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_009",
+    "skill_id": "probability_statistics",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Probability & Statistics?",
+    "options": [
+      "Making pages load and respond quickly for real users.",
+      "Quantifying uncertainty and drawing conclusions from data.",
+      "Calling backend endpoints directly from browser code.",
+      "Bundling and optimising frontend assets with Vite or Webpack."
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_010",
+    "skill_id": "calculus",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Calculus?",
+    "options": [
+      "Designing consistent, predictable HTTP endpoints and resources.",
+      "The scripting language that makes web pages interactive.",
+      "Writing window functions and optimising slow queries at scale.",
+      "The maths of rates of change and accumulation used to train models."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_011",
+    "skill_id": "python_ml_tooling",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Python for Data (NumPy/Pandas)?",
+    "options": [
+      "Splitting a system into small services that own one responsibility each.",
+      "Analysing small-to-medium datasets with spreadsheets and formulas.",
+      "Using Tailwind or Bootstrap for consistent styling fast.",
+      "Using NumPy and Pandas to manipulate numeric and tabular data."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_012",
+    "skill_id": "data_visualization",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Data Visualization?",
+    "options": [
+      "Turning numbers into charts and plots to reveal patterns.",
+      "Cleaning and reshaping messy raw data into analysis-ready tables.",
+      "Exchanging data between clients and servers over HTTP with JSON.",
+      "Tracking shared UI state so components stay in sync."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_013",
+    "skill_id": "ml_fundamentals",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Machine Learning Fundamentals?",
+    "options": [
+      "Reading and updating the page tree the browser renders.",
+      "Storing frequently-read data in memory (Redis) to cut response times.",
+      "Teaching computers to find patterns from examples instead of rules.",
+      "Writing step-by-step instructions a computer can execute."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_014",
+    "skill_id": "supervised_learning",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Supervised Learning?",
+    "options": [
+      "Training models on labelled examples to predict outcomes for new data.",
+      "Tracking changes to code over time and collaborating through a hosted platform.",
+      "Verifying who a user is and protecting endpoints and data from abuse.",
+      "Making pages load and respond quickly for real users."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_015",
+    "skill_id": "model_evaluation",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Model Evaluation & Validation?",
+    "options": [
+      "Making layouts adapt to phones, tablets, and desktops.",
+      "Verifying who a user is and protecting endpoints and data from abuse.",
+      "Measuring how well a model generalises using hold-out data and metrics.",
+      "Driving a computer by typing text commands into a shell like Bash."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_016",
+    "skill_id": "feature_engineering",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Feature Engineering?",
+    "options": [
+      "Profiling data with summary stats and plots before formal modelling.",
+      "Using Tailwind or Bootstrap for consistent styling fast.",
+      "Transforming raw data into the inputs that help models learn",
+      "Shipping backend changes to production through CI/CD pipelines."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_017",
+    "skill_id": "deep_learning",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Deep Learning Concepts?",
+    "options": [
+      "Training multi-layer neural networks by backpropagating prediction errors.",
+      "Storing frequently-read data in memory (Redis) to cut response times.",
+      "Running controlled experiments to decide which version wins.",
+      "Turning analysis into a clear narrative an audience can act on."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_018",
+    "skill_id": "neural_networks",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Neural Network Libraries?",
+    "options": [
+      "Making layouts adapt to phones, tablets, and desktops.",
+      "Turning analysis into a clear narrative an audience can act on.",
+      "JavaScript with static types for larger codebases.",
+      "Building and training deep models with libraries like PyTorch or TensorFlow."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_019",
+    "skill_id": "computer_vision",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Computer Vision?",
+    "options": [
+      "Organising data in ways that make storage and retrieval efficient.",
+      "Enabling machines to interpret images and video.",
+      "The scripting language that makes web pages interactive.",
+      "Authoring interactive dashboards with Tableau, Power BI, or Looker."
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_020",
+    "skill_id": "nlp",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Natural Language Processing?",
+    "options": [
+      "Calling backend endpoints directly from browser code.",
+      "Splitting a system into small services that own one responsibility each.",
+      "Enabling machines to understand and generate human language.",
+      "Exchanging data between clients and servers over HTTP with JSON."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_021",
+    "skill_id": "docker",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Docker & Containers?",
+    "options": [
+      "The scripting language that makes web pages interactive.",
+      "Building componentised UIs with React, Vue, or Svelte.",
+      "Using Tailwind or Bootstrap for consistent styling fast.",
+      "Packaging an application and its dependencies into a portable container image."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_022",
+    "skill_id": "kubernetes",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Kubernetes?",
+    "options": [
+      "Verifying who a user is and protecting endpoints and data from abuse.",
+      "Using Tailwind or Bootstrap for consistent styling fast.",
+      "Designing relational stores of data organised into tables with keys.",
+      "Orchestrating and scaling containers reliably across a cluster."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_023",
+    "skill_id": "cloud_platforms",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Cloud Platforms (AWS/GCP/Azure)?",
+    "options": [
+      "Turning analysis into a clear narrative an audience can act on.",
+      "Driving a computer by typing text commands into a shell like Bash.",
+      "Structuring pages with HTML and styling them with CSS.",
+      "Provisioning compute and storage on AWS, GCP, or Azure."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_024",
+    "skill_id": "mlops",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes MLOps?",
+    "options": [
+      "The discipline of deploying, monitoring, and retraining machine learning models.",
+      "Driving a computer by typing text commands into a shell like Bash.",
+      "Using hypothesis tests and regression to make data-driven decisions.",
+      "A general-purpose programming language known for clean, readable syntax."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_025",
+    "skill_id": "ml_pipelines",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes ML Pipeline Orchestration?",
+    "options": [
+      "Designing relational stores of data organised into tables with keys.",
+      "Organising data in ways that make storage and retrieval efficient.",
+      "Driving a computer by typing text commands into a shell like Bash.",
+      "Automating the steps that move data from raw source to trained model."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_026",
+    "skill_id": "big_data_tools",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Big Data Tools?",
+    "options": [
+      "Processing datasets too large for a single machine using Spark and friends.",
+      "Driving a computer by typing text commands into a shell like Bash.",
+      "Automating UI checks with Jest, Cypress, or similar.",
+      "Tracking shared UI state so components stay in sync."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_027",
+    "skill_id": "model_deployment",
+    "cluster": "ml_engineer",
+    "text": "Which statement best describes Model Serving & Deployment?",
+    "options": [
+      "The scripting language that makes web pages interactive.",
+      "Exposing a trained model behind an API so applications can call it.",
+      "Splitting a system into small services that own one responsibility each.",
+      "Running functions on demand, paying only when they're invoked."
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_028",
+    "skill_id": "excel_analytics",
+    "cluster": "data_analyst",
+    "text": "Which statement best describes Excel & Spreadsheets?",
+    "options": [
+      "Automating the steps that move data from raw source to trained model.",
+      "The maths of vectors, matrices, and their transformations.",
+      "Using Tailwind or Bootstrap for consistent styling fast.",
+      "Analysing small-to-medium datasets with spreadsheets and formulas."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_029",
+    "skill_id": "data_wrangling",
+    "cluster": "data_analyst",
+    "text": "Which statement best describes Data Wrangling & Cleaning?",
+    "options": [
+      "Bundling and optimising frontend assets with Vite or Webpack.",
+      "Shipping backend changes to production through CI/CD pipelines.",
+      "Automating UI checks with Jest, Cypress, or similar.",
+      "Cleaning and reshaping messy raw data into analysis-ready tables."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_030",
+    "skill_id": "statistical_analysis",
+    "cluster": "data_analyst",
+    "text": "Which statement best describes Statistical Analysis?",
+    "options": [
+      "Using hypothesis tests and regression to make data-driven decisions.",
+      "Provisioning compute and storage on AWS, GCP, or Azure.",
+      "Using a query language to read and manipulate data stored in relational databases.",
+      "Storing frequently-read data in memory (Redis) to cut response times."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_031",
+    "skill_id": "exploratory_data_analysis",
+    "cluster": "data_analyst",
+    "text": "Which statement best describes Exploratory Data Analysis?",
+    "options": [
+      "Profiling data with summary stats and plots before formal modelling.",
+      "Designing relational stores of data organised into tables with keys.",
+      "Structuring pages with HTML and styling them with CSS.",
+      "Enabling machines to interpret images and video."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_032",
+    "skill_id": "sql_advanced",
+    "cluster": "data_analyst",
+    "text": "Which statement best describes Advanced SQL?",
+    "options": [
+      "Building backend applications quickly with FastAPI, Flask, or Django.",
+      "Writing window functions and optimising slow queries at scale.",
+      "A general-purpose programming language known for clean, readable syntax.",
+      "Building componentised UIs with React, Vue, or Svelte."
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_033",
+    "skill_id": "business_intelligence",
+    "cluster": "data_analyst",
+    "text": "Which statement best describes Business Intelligence?",
+    "options": [
+      "Quantifying uncertainty and drawing conclusions from data.",
+      "Building the dashboards and reports that run a business day-to-day.",
+      "Processing datasets too large for a single machine using Spark and friends.",
+      "Automating UI checks with Jest, Cypress, or similar."
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_034",
+    "skill_id": "data_storytelling",
+    "cluster": "data_analyst",
+    "text": "Which statement best describes Data Storytelling?",
+    "options": [
+      "Enabling machines to understand and generate human language.",
+      "Tracking shared UI state so components stay in sync.",
+      "Turning analysis into a clear narrative an audience can act on.",
+      "Using Tailwind or Bootstrap for consistent styling fast."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_035",
+    "skill_id": "ab_testing",
+    "cluster": "data_analyst",
+    "text": "Which statement best describes A/B Testing & Experimentation?",
+    "options": [
+      "The maths of vectors, matrices, and their transformations.",
+      "Running controlled experiments to decide which version wins.",
+      "Organising data in ways that make storage and retrieval efficient.",
+      "Writing step-by-step instructions a computer can execute."
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_036",
+    "skill_id": "dashboard_tools",
+    "cluster": "data_analyst",
+    "text": "Which statement best describes Dashboard Tools?",
+    "options": [
+      "Automating UI checks with Jest, Cypress, or similar.",
+      "Enabling machines to understand and generate human language.",
+      "Authoring interactive dashboards with Tableau, Power BI, or Looker.",
+      "Training models on labelled examples to predict outcomes for new data."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_037",
+    "skill_id": "http_apis",
+    "cluster": "backend",
+    "text": "Which statement best describes HTTP & APIs?",
+    "options": [
+      "The maths of rates of change and accumulation used to train models.",
+      "Building the dashboards and reports that run a business day-to-day.",
+      "Exchanging data between clients and servers over HTTP with JSON.",
+      "Using Tailwind or Bootstrap for consistent styling fast."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_038",
+    "skill_id": "apis_consumption",
+    "cluster": "backend",
+    "text": "Which statement best describes Consuming APIs?",
+    "options": [
+      "JavaScript with static types for larger codebases.",
+      "Training multi-layer neural networks by backpropagating prediction errors.",
+      "Teaching computers to find patterns from examples instead of rules.",
+      "Calling other services' endpoints from your own code."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_039",
+    "skill_id": "rest_api_design",
+    "cluster": "backend",
+    "text": "Which statement best describes REST API Design?",
+    "options": [
+      "Using hypothesis tests and regression to make data-driven decisions.",
+      "Using Tailwind or Bootstrap for consistent styling fast.",
+      "Authoring interactive dashboards with Tableau, Power BI, or Looker.",
+      "Designing consistent, predictable HTTP endpoints and resources."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_040",
+    "skill_id": "web_frameworks",
+    "cluster": "backend",
+    "text": "Which statement best describes Web Frameworks?",
+    "options": [
+      "Building backend applications quickly with FastAPI, Flask, or Django.",
+      "Using a query language to read and manipulate data stored in relational databases.",
+      "Training multi-layer neural networks by backpropagating prediction errors.",
+      "Teaching computers to find patterns from examples instead of rules."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_041",
+    "skill_id": "authentication",
+    "cluster": "backend",
+    "text": "Which statement best describes Auth & Security?",
+    "options": [
+      "Making layouts adapt to phones, tablets, and desktops.",
+      "Using Tailwind or Bootstrap for consistent styling fast.",
+      "Verifying who a user is and protecting endpoints and data from abuse.",
+      "Quantifying uncertainty and drawing conclusions from data."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_042",
+    "skill_id": "caching",
+    "cluster": "backend",
+    "text": "Which statement best describes Caching & Performance?",
+    "options": [
+      "Storing frequently-read data in memory (Redis) to cut response times.",
+      "Teaching computers to find patterns from examples instead of rules.",
+      "JavaScript with static types for larger codebases.",
+      "Driving a computer by typing text commands into a shell like Bash."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_043",
+    "skill_id": "message_queues",
+    "cluster": "backend",
+    "text": "Which statement best describes Message Queues?",
+    "options": [
+      "Orchestrating and scaling containers reliably across a cluster.",
+      "Moving work between services asynchronously via Kafka or RabbitMQ.",
+      "Making layouts adapt to phones, tablets, and desktops.",
+      "JavaScript with static types for larger codebases."
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_044",
+    "skill_id": "testing_backend",
+    "cluster": "backend",
+    "text": "Which statement best describes Backend Testing?",
+    "options": [
+      "Structuring pages with HTML and styling them with CSS.",
+      "The discipline of deploying, monitoring, and retraining machine learning models.",
+      "Automating unit and integration tests to keep backends safe.",
+      "Packaging an application and its dependencies into a portable container image."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_045",
+    "skill_id": "microservices",
+    "cluster": "backend",
+    "text": "Which statement best describes Microservices?",
+    "options": [
+      "Splitting a system into small services that own one responsibility each.",
+      "Transforming raw data into the inputs that help models learn",
+      "Packaging an application and its dependencies into a portable container image.",
+      "Measuring how well a model generalises using hold-out data and metrics."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_046",
+    "skill_id": "serverless",
+    "cluster": "backend",
+    "text": "Which statement best describes Serverless?",
+    "options": [
+      "Running functions on demand, paying only when they're invoked.",
+      "Bundling and optimising frontend assets with Vite or Webpack.",
+      "Quantifying uncertainty and drawing conclusions from data.",
+      "Calling backend endpoints directly from browser code."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_047",
+    "skill_id": "backend_deployment",
+    "cluster": "backend",
+    "text": "Which statement best describes Backend Deployment?",
+    "options": [
+      "Cleaning and reshaping messy raw data into analysis-ready tables.",
+      "Shipping backend changes to production through CI/CD pipelines.",
+      "Provisioning compute and storage on AWS, GCP, or Azure.",
+      "Enabling machines to understand and generate human language."
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_048",
+    "skill_id": "html_css",
+    "cluster": "frontend",
+    "text": "Which statement best describes HTML & CSS?",
+    "options": [
+      "Storing frequently-read data in memory (Redis) to cut response times.",
+      "Designing consistent, predictable HTTP endpoints and resources.",
+      "Turning numbers into charts and plots to reveal patterns.",
+      "Structuring pages with HTML and styling them with CSS."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_049",
+    "skill_id": "javascript",
+    "cluster": "frontend",
+    "text": "Which statement best describes JavaScript?",
+    "options": [
+      "Running controlled experiments to decide which version wins.",
+      "Training multi-layer neural networks by backpropagating prediction errors.",
+      "Teaching computers to find patterns from examples instead of rules.",
+      "The scripting language that makes web pages interactive."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_050",
+    "skill_id": "dom_manipulation",
+    "cluster": "frontend",
+    "text": "Which statement best describes DOM & Browser APIs?",
+    "options": [
+      "Verifying who a user is and protecting endpoints and data from abuse.",
+      "A general-purpose programming language known for clean, readable syntax.",
+      "Building the dashboards and reports that run a business day-to-day.",
+      "Reading and updating the page tree the browser renders."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_051",
+    "skill_id": "typescript",
+    "cluster": "frontend",
+    "text": "Which statement best describes TypeScript?",
+    "options": [
+      "JavaScript with static types for larger codebases.",
+      "Calling other services' endpoints from your own code.",
+      "Organising data in ways that make storage and retrieval efficient.",
+      "Training models on labelled examples to predict outcomes for new data."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_052",
+    "skill_id": "modern_js_frameworks",
+    "cluster": "frontend",
+    "text": "Which statement best describes Modern Frontend Frameworks?",
+    "options": [
+      "The maths of rates of change and accumulation used to train models.",
+      "Storing frequently-read data in memory (Redis) to cut response times.",
+      "Building componentised UIs with React, Vue, or Svelte.",
+      "The discipline of deploying, monitoring, and retraining machine learning models."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_053",
+    "skill_id": "css_frameworks",
+    "cluster": "frontend",
+    "text": "Which statement best describes CSS Frameworks?",
+    "options": [
+      "Building the dashboards and reports that run a business day-to-day.",
+      "Using hypothesis tests and regression to make data-driven decisions.",
+      "Quantifying uncertainty and drawing conclusions from data.",
+      "Using Tailwind or Bootstrap for consistent styling fast."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_054",
+    "skill_id": "responsive_design",
+    "cluster": "frontend",
+    "text": "Which statement best describes Responsive Design?",
+    "options": [
+      "Moving work between services asynchronously via Kafka or RabbitMQ.",
+      "Making layouts adapt to phones, tablets, and desktops.",
+      "Writing step-by-step instructions a computer can execute.",
+      "Building the dashboards and reports that run a business day-to-day."
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_055",
+    "skill_id": "api_integration_frontend",
+    "cluster": "frontend",
+    "text": "Which statement best describes API Integration in the Browser?",
+    "options": [
+      "Cleaning and reshaping messy raw data into analysis-ready tables.",
+      "Quantifying uncertainty and drawing conclusions from data.",
+      "Calling backend endpoints directly from browser code.",
+      "Building the dashboards and reports that run a business day-to-day."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_056",
+    "skill_id": "state_management",
+    "cluster": "frontend",
+    "text": "Which statement best describes State Management?",
+    "options": [
+      "Profiling data with summary stats and plots before formal modelling.",
+      "Shipping backend changes to production through CI/CD pipelines.",
+      "Provisioning compute and storage on AWS, GCP, or Azure.",
+      "Tracking shared UI state so components stay in sync."
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_057",
+    "skill_id": "frontend_testing",
+    "cluster": "frontend",
+    "text": "Which statement best describes Frontend Testing?",
+    "options": [
+      "Measuring how well a model generalises using hold-out data and metrics.",
+      "Training multi-layer neural networks by backpropagating prediction errors.",
+      "Automating UI checks with Jest, Cypress, or similar.",
+      "Driving a computer by typing text commands into a shell like Bash."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_058",
+    "skill_id": "build_tools",
+    "cluster": "frontend",
+    "text": "Which statement best describes Build Tools & Bundlers?",
+    "options": [
+      "Bundling and optimising frontend assets with Vite or Webpack.",
+      "Turning analysis into a clear narrative an audience can act on.",
+      "Moving work between services asynchronously via Kafka or RabbitMQ.",
+      "Training models on labelled examples to predict outcomes for new data."
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_059",
+    "skill_id": "frontend_performance",
+    "cluster": "frontend",
+    "text": "Which statement best describes Frontend Performance?",
+    "options": [
+      "Storing frequently-read data in memory (Redis) to cut response times.",
+      "Using hypothesis tests and regression to make data-driven decisions.",
+      "Making pages load and respond quickly for real users.",
+      "Organising data in ways that make storage and retrieval efficient."
+    ],
+    "correct_index": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_060",
+    "skill_id": "python_basics",
+    "cluster": "foundations",
+    "text": "Which data structure is immutable in Python?",
+    "options": [
+      "List",
+      "Dictionary",
+      "Set",
+      "Tuple"
+    ],
+    "correct_index": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_061",
+    "skill_id": "python_basics",
+    "cluster": "foundations",
+    "text": "What keyword does Python use to define a function?",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "lambda"
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_062",
+    "skill_id": "sql_basics",
+    "cluster": "foundations",
+    "text": "Which clause filters rows BEFORE grouping?",
+    "options": [
+      "WHERE",
+      "HAVING",
+      "GROUP BY",
+      "ORDER BY"
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_063",
+    "skill_id": "sql_basics",
+    "cluster": "foundations",
+    "text": "Which SQL statement reads data from a table?",
+    "options": [
+      "READ",
+      "SELECT",
+      "FETCH",
+      "OPEN"
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_064",
+    "skill_id": "git_github",
+    "cluster": "foundations",
+    "text": "Which command saves your changes to the local repository?",
+    "options": [
+      "git push",
+      "git commit",
+      "git add",
+      "git clone"
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_065",
+    "skill_id": "git_github",
+    "cluster": "foundations",
+    "text": "What does 'git pull' do?",
+    "options": [
+      "Uploads local commits",
+      "Fetches and merges remote changes",
+      "Deletes the remote branch",
+      "Shows the diff of the last commit"
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_066",
+    "skill_id": "ml_fundamentals",
+    "cluster": "ml_engineer",
+    "text": "Which term describes learning from unlabelled data?",
+    "options": [
+      "Supervised learning",
+      "Unsupervised learning",
+      "Reinforcement learning",
+      "Transfer learning"
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_067",
+    "skill_id": "ml_fundamentals",
+    "cluster": "ml_engineer",
+    "text": "What is 'overfitting'?",
+    "options": [
+      "The model memorises training data and fails on new data",
+      "The model learns nothing from training",
+      "The training data is too small to load",
+      "The loss stays constant forever"
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_068",
+    "skill_id": "supervised_learning",
+    "cluster": "ml_engineer",
+    "text": "Which problem is classification?",
+    "options": [
+      "Predicting a house price",
+      "Detecting whether an email is spam",
+      "Estimating revenue next quarter",
+      "Forecasting temperature"
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_069",
+    "skill_id": "model_evaluation",
+    "cluster": "ml_engineer",
+    "text": "Which metric suits a heavily imbalanced binary classifier?",
+    "options": [
+      "Accuracy",
+      "F1-score",
+      "Mean squared error",
+      "Perplexity"
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_070",
+    "skill_id": "docker",
+    "cluster": "ml_engineer",
+    "text": "What does a Docker container primarily provide?",
+    "options": [
+      "An isolated environment with the app and its dependencies",
+      "A hosted git repository",
+      "A SQL database engine",
+      "A JavaScript runtime"
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_071",
+    "skill_id": "web_frameworks",
+    "cluster": "backend",
+    "text": "Which of these is a Python web framework?",
+    "options": [
+      "React",
+      "FastAPI",
+      "Node",
+      "Angular"
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_072",
+    "skill_id": "javascript",
+    "cluster": "frontend",
+    "text": "Which keyword declares a block-scoped variable in modern JavaScript?",
+    "options": [
+      "var",
+      "let",
+      "int",
+      "constrain"
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_073",
+    "skill_id": "probability_statistics",
+    "cluster": "ml_engineer",
+    "text": "What does a p-value below 0.05 typically suggest?",
+    "options": [
+      "The result is unlikely under the null hypothesis",
+      "The sample size is too large",
+      "The experiment is definitely correct",
+      "The data has no variance"
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_074",
+    "skill_id": "data_wrangling",
+    "cluster": "data_analyst",
+    "text": "Which Pandas operation joins two dataframes on a key column?",
+    "options": [
+      "merge",
+      "broadcast",
+      "transpose",
+      "apply"
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_075",
+    "skill_id": "linear_algebra",
+    "cluster": "ml_engineer",
+    "text": "Which mathematics deals with vectors and matrices?",
+    "options": [
+      "Calculus",
+      "Linear algebra",
+      "Number theory",
+      "Trigonometry"
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_076",
+    "skill_id": "neural_networks",
+    "cluster": "ml_engineer",
+    "text": "Which structure is typical of a deep neural network?",
+    "options": [
+      "Many layers between input and output",
+      "A single lookup table",
+      "An array sorted at load time",
+      "A JSON tree of endpoints"
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_077",
+    "skill_id": "mlops",
+    "cluster": "ml_engineer",
+    "text": "Which task belongs to MLOps?",
+    "options": [
+      "Training a model and shipping it to production safely",
+      "Writing SQL views",
+      "Designing a landing page",
+      "Configuring a load balancer DNS record"
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_078",
+    "skill_id": "command_line",
+    "cluster": "foundations",
+    "text": "Which command lists files in the current directory?",
+    "options": [
+      "ls",
+      "cd",
+      "mkdir",
+      "pwd"
+    ],
+    "correct_index": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": "item_079",
+    "skill_id": "rest_api_design",
+    "cluster": "backend",
+    "text": "Which HTTP method is conventionally used to update a resource?",
+    "options": [
+      "GET",
+      "PUT",
+      "POST",
+      "DELETE"
+    ],
+    "correct_index": 1,
+    "difficulty": "medium"
+  }
+]
