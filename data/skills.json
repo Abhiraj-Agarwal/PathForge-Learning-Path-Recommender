@@ -1,0 +1,809 @@
+[
+  {
+    "id": "programming_basics",
+    "name": "Programming Basics",
+    "aliases": [
+      "coding basics",
+      "intro to programming",
+      "programming 101"
+    ],
+    "cluster": "foundations",
+    "prerequisites": []
+  },
+  {
+    "id": "python_basics",
+    "name": "Python Fundamentals",
+    "aliases": [
+      "python",
+      "python3",
+      "basic python",
+      "python basics"
+    ],
+    "cluster": "foundations",
+    "prerequisites": [
+      "programming_basics"
+    ]
+  },
+  {
+    "id": "data_structures",
+    "name": "Data Structures & Algorithms",
+    "aliases": [
+      "dsa",
+      "algorithms",
+      "data structures"
+    ],
+    "cluster": "foundations",
+    "prerequisites": [
+      "python_basics"
+    ]
+  },
+  {
+    "id": "git_github",
+    "name": "Git & GitHub",
+    "aliases": [
+      "git",
+      "version control",
+      "github"
+    ],
+    "cluster": "foundations",
+    "prerequisites": []
+  },
+  {
+    "id": "command_line",
+    "name": "Command Line & Linux",
+    "aliases": [
+      "bash",
+      "unix",
+      "terminal",
+      "linux"
+    ],
+    "cluster": "foundations",
+    "prerequisites": []
+  },
+  {
+    "id": "database_fundamentals",
+    "name": "Database Fundamentals",
+    "aliases": [
+      "databases",
+      "relational databases",
+      "rdbms"
+    ],
+    "cluster": "foundations",
+    "prerequisites": [
+      "python_basics"
+    ]
+  },
+  {
+    "id": "sql_basics",
+    "name": "SQL Basics",
+    "aliases": [
+      "sql",
+      "structured query language",
+      "sql queries",
+      "basic sql"
+    ],
+    "cluster": "foundations",
+    "prerequisites": [
+      "database_fundamentals"
+    ]
+  },
+  {
+    "id": "linear_algebra",
+    "name": "Linear Algebra",
+    "aliases": [
+      "vectors",
+      "matrices",
+      "linear algebra basics"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": []
+  },
+  {
+    "id": "probability_statistics",
+    "name": "Probability & Statistics",
+    "aliases": [
+      "statistics",
+      "probability",
+      "statistical inference",
+      "inference"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": []
+  },
+  {
+    "id": "calculus",
+    "name": "Calculus",
+    "aliases": [
+      "differential calculus",
+      "derivatives",
+      "multivariable calculus"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": []
+  },
+  {
+    "id": "python_ml_tooling",
+    "name": "Python for Data (NumPy/Pandas)",
+    "aliases": [
+      "numpy",
+      "pandas",
+      "scientific python",
+      "data analysis with python"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "python_basics"
+    ]
+  },
+  {
+    "id": "data_visualization",
+    "name": "Data Visualization",
+    "aliases": [
+      "matplotlib",
+      "seaborn",
+      "plotting",
+      "data viz"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "python_ml_tooling"
+    ]
+  },
+  {
+    "id": "ml_fundamentals",
+    "name": "Machine Learning Fundamentals",
+    "aliases": [
+      "machine learning",
+      "ml basics",
+      "ml concepts"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "python_ml_tooling",
+      "linear_algebra",
+      "probability_statistics"
+    ]
+  },
+  {
+    "id": "supervised_learning",
+    "name": "Supervised Learning",
+    "aliases": [
+      "regression",
+      "classification",
+      "scikit-learn",
+      "model fitting"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "ml_fundamentals"
+    ]
+  },
+  {
+    "id": "model_evaluation",
+    "name": "Model Evaluation & Validation",
+    "aliases": [
+      "cross validation",
+      "metrics",
+      "model validation",
+      "precision recall"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "supervised_learning",
+      "probability_statistics"
+    ]
+  },
+  {
+    "id": "feature_engineering",
+    "name": "Feature Engineering",
+    "aliases": [
+      "feature extraction",
+      "data preprocessing",
+      "feature selection"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "python_ml_tooling",
+      "data_visualization"
+    ]
+  },
+  {
+    "id": "deep_learning",
+    "name": "Deep Learning Concepts",
+    "aliases": [
+      "deep learning",
+      "neural network theory",
+      "backpropagation",
+      "neural networks"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "supervised_learning",
+      "calculus"
+    ]
+  },
+  {
+    "id": "neural_networks",
+    "name": "Neural Network Libraries",
+    "aliases": [
+      "pytorch",
+      "tensorflow",
+      "keras",
+      "cnn",
+      "transformers"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "deep_learning",
+      "python_ml_tooling"
+    ]
+  },
+  {
+    "id": "computer_vision",
+    "name": "Computer Vision",
+    "aliases": [
+      "cv",
+      "image processing",
+      "object detection"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "neural_networks"
+    ]
+  },
+  {
+    "id": "nlp",
+    "name": "Natural Language Processing",
+    "aliases": [
+      "text mining",
+      "nlp",
+      "language models"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "neural_networks"
+    ]
+  },
+  {
+    "id": "docker",
+    "name": "Docker & Containers",
+    "aliases": [
+      "containers",
+      "containerization",
+      "docker compose"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "command_line"
+    ]
+  },
+  {
+    "id": "kubernetes",
+    "name": "Kubernetes",
+    "aliases": [
+      "k8s",
+      "container orchestration",
+      "helm"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "docker"
+    ]
+  },
+  {
+    "id": "cloud_platforms",
+    "name": "Cloud Platforms (AWS/GCP/Azure)",
+    "aliases": [
+      "aws",
+      "gcp",
+      "azure",
+      "cloud computing",
+      "ec2"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "command_line"
+    ]
+  },
+  {
+    "id": "mlops",
+    "name": "MLOps",
+    "aliases": [
+      "ml pipeline",
+      "model serving",
+      "ml ci/cd",
+      "model registry"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "model_evaluation",
+      "docker",
+      "git_github"
+    ]
+  },
+  {
+    "id": "ml_pipelines",
+    "name": "ML Pipeline Orchestration",
+    "aliases": [
+      "airflow",
+      "pipeline automation",
+      "mlflow"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "mlops",
+      "python_ml_tooling"
+    ]
+  },
+  {
+    "id": "big_data_tools",
+    "name": "Big Data Tools",
+    "aliases": [
+      "spark",
+      "hadoop",
+      "distributed computing"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "database_fundamentals",
+      "python_ml_tooling"
+    ]
+  },
+  {
+    "id": "model_deployment",
+    "name": "Model Serving & Deployment",
+    "aliases": [
+      "model serving",
+      "rest api for ml",
+      "model api"
+    ],
+    "cluster": "ml_engineer",
+    "prerequisites": [
+      "mlops",
+      "rest_api_design"
+    ]
+  },
+  {
+    "id": "excel_analytics",
+    "name": "Excel & Spreadsheets",
+    "aliases": [
+      "excel",
+      "spreadsheets",
+      "google sheets"
+    ],
+    "cluster": "data_analyst",
+    "prerequisites": []
+  },
+  {
+    "id": "data_wrangling",
+    "name": "Data Wrangling & Cleaning",
+    "aliases": [
+      "data cleaning",
+      "data munging",
+      "tidy data"
+    ],
+    "cluster": "data_analyst",
+    "prerequisites": [
+      "python_ml_tooling",
+      "sql_basics"
+    ]
+  },
+  {
+    "id": "statistical_analysis",
+    "name": "Statistical Analysis",
+    "aliases": [
+      "hypothesis testing",
+      "regression analysis",
+      "inferential statistics"
+    ],
+    "cluster": "data_analyst",
+    "prerequisites": [
+      "probability_statistics",
+      "python_ml_tooling"
+    ]
+  },
+  {
+    "id": "exploratory_data_analysis",
+    "name": "Exploratory Data Analysis",
+    "aliases": [
+      "eda",
+      "data exploration",
+      "exploratory analysis"
+    ],
+    "cluster": "data_analyst",
+    "prerequisites": [
+      "data_wrangling",
+      "data_visualization"
+    ]
+  },
+  {
+    "id": "sql_advanced",
+    "name": "Advanced SQL",
+    "aliases": [
+      "window functions",
+      "query optimization",
+      "advanced sql"
+    ],
+    "cluster": "data_analyst",
+    "prerequisites": [
+      "sql_basics"
+    ]
+  },
+  {
+    "id": "business_intelligence",
+    "name": "Business Intelligence",
+    "aliases": [
+      "bi",
+      "reporting",
+      "kpi dashboards"
+    ],
+    "cluster": "data_analyst",
+    "prerequisites": [
+      "sql_advanced",
+      "data_visualization"
+    ]
+  },
+  {
+    "id": "data_storytelling",
+    "name": "Data Storytelling",
+    "aliases": [
+      "narrative",
+      "data presentations",
+      "dashboards for executives",
+      "presentations"
+    ],
+    "cluster": "data_analyst",
+    "prerequisites": [
+      "exploratory_data_analysis",
+      "business_intelligence"
+    ]
+  },
+  {
+    "id": "ab_testing",
+    "name": "A/B Testing & Experimentation",
+    "aliases": [
+      "experiment design",
+      "controlled trials",
+      "conversion testing",
+      "ab testing",
+      "a/b testing"
+    ],
+    "cluster": "data_analyst",
+    "prerequisites": [
+      "statistical_analysis"
+    ]
+  },
+  {
+    "id": "dashboard_tools",
+    "name": "Dashboard Tools",
+    "aliases": [
+      "tableau",
+      "power bi",
+      "looker"
+    ],
+    "cluster": "data_analyst",
+    "prerequisites": [
+      "business_intelligence"
+    ]
+  },
+  {
+    "id": "http_apis",
+    "name": "HTTP & APIs",
+    "aliases": [
+      "http",
+      "json",
+      "rest fundamentals",
+      "api basics"
+    ],
+    "cluster": "backend",
+    "prerequisites": [
+      "python_basics",
+      "command_line"
+    ]
+  },
+  {
+    "id": "apis_consumption",
+    "name": "Consuming APIs",
+    "aliases": [
+      "requests",
+      "api integration",
+      "api clients"
+    ],
+    "cluster": "backend",
+    "prerequisites": [
+      "http_apis"
+    ]
+  },
+  {
+    "id": "rest_api_design",
+    "name": "REST API Design",
+    "aliases": [
+      "rest",
+      "api design",
+      "endpoints",
+      "openapi"
+    ],
+    "cluster": "backend",
+    "prerequisites": [
+      "http_apis"
+    ]
+  },
+  {
+    "id": "web_frameworks",
+    "name": "Web Frameworks",
+    "aliases": [
+      "fastapi",
+      "flask",
+      "django",
+      "node express"
+    ],
+    "cluster": "backend",
+    "prerequisites": [
+      "rest_api_design"
+    ]
+  },
+  {
+    "id": "authentication",
+    "name": "Auth & Security",
+    "aliases": [
+      "oauth",
+      "jwt",
+      "security",
+      "api keys"
+    ],
+    "cluster": "backend",
+    "prerequisites": [
+      "web_frameworks",
+      "database_fundamentals"
+    ]
+  },
+  {
+    "id": "caching",
+    "name": "Caching & Performance",
+    "aliases": [
+      "redis",
+      "caching",
+      "performance tuning"
+    ],
+    "cluster": "backend",
+    "prerequisites": [
+      "web_frameworks"
+    ]
+  },
+  {
+    "id": "message_queues",
+    "name": "Message Queues",
+    "aliases": [
+      "kafka",
+      "rabbitmq",
+      "event streaming"
+    ],
+    "cluster": "backend",
+    "prerequisites": [
+      "web_frameworks",
+      "docker"
+    ]
+  },
+  {
+    "id": "testing_backend",
+    "name": "Backend Testing",
+    "aliases": [
+      "pytest",
+      "unit testing",
+      "integration tests",
+      "tdd"
+    ],
+    "cluster": "backend",
+    "prerequisites": [
+      "web_frameworks"
+    ]
+  },
+  {
+    "id": "microservices",
+    "name": "Microservices",
+    "aliases": [
+      "service architecture",
+      "distributed systems",
+      "soa"
+    ],
+    "cluster": "backend",
+    "prerequisites": [
+      "rest_api_design",
+      "message_queues"
+    ]
+  },
+  {
+    "id": "serverless",
+    "name": "Serverless",
+    "aliases": [
+      "lambda",
+      "cloud functions",
+      "serverless architecture"
+    ],
+    "cluster": "backend",
+    "prerequisites": [
+      "cloud_platforms",
+      "rest_api_design"
+    ]
+  },
+  {
+    "id": "backend_deployment",
+    "name": "Backend Deployment",
+    "aliases": [
+      "ci/cd",
+      "devops",
+      "deployment pipelines"
+    ],
+    "cluster": "backend",
+    "prerequisites": [
+      "docker",
+      "cloud_platforms",
+      "web_frameworks"
+    ]
+  },
+  {
+    "id": "html_css",
+    "name": "HTML & CSS",
+    "aliases": [
+      "html",
+      "css",
+      "markup",
+      "styling"
+    ],
+    "cluster": "frontend",
+    "prerequisites": []
+  },
+  {
+    "id": "javascript",
+    "name": "JavaScript",
+    "aliases": [
+      "js",
+      "es6",
+      "ecmascript"
+    ],
+    "cluster": "frontend",
+    "prerequisites": [
+      "html_css"
+    ]
+  },
+  {
+    "id": "dom_manipulation",
+    "name": "DOM & Browser APIs",
+    "aliases": [
+      "dom",
+      "browser apis",
+      "events",
+      "fetch api"
+    ],
+    "cluster": "frontend",
+    "prerequisites": [
+      "javascript"
+    ]
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "aliases": [
+      "ts",
+      "typed javascript",
+      "typescript basics"
+    ],
+    "cluster": "frontend",
+    "prerequisites": [
+      "javascript"
+    ]
+  },
+  {
+    "id": "modern_js_frameworks",
+    "name": "Modern Frontend Frameworks",
+    "aliases": [
+      "react",
+      "vue",
+      "svelte",
+      "component frameworks"
+    ],
+    "cluster": "frontend",
+    "prerequisites": [
+      "dom_manipulation",
+      "typescript"
+    ]
+  },
+  {
+    "id": "css_frameworks",
+    "name": "CSS Frameworks",
+    "aliases": [
+      "tailwind",
+      "bootstrap",
+      "utility css"
+    ],
+    "cluster": "frontend",
+    "prerequisites": [
+      "html_css"
+    ]
+  },
+  {
+    "id": "responsive_design",
+    "name": "Responsive Design",
+    "aliases": [
+      "mobile web",
+      "media queries",
+      "mobile-first"
+    ],
+    "cluster": "frontend",
+    "prerequisites": [
+      "html_css",
+      "css_frameworks"
+    ]
+  },
+  {
+    "id": "api_integration_frontend",
+    "name": "API Integration in the Browser",
+    "aliases": [
+      "axios",
+      "xhr",
+      "fetch",
+      "api consumption"
+    ],
+    "cluster": "frontend",
+    "prerequisites": [
+      "dom_manipulation",
+      "apis_consumption"
+    ]
+  },
+  {
+    "id": "state_management",
+    "name": "State Management",
+    "aliases": [
+      "redux",
+      "context api",
+      "zustand",
+      "state libraries"
+    ],
+    "cluster": "frontend",
+    "prerequisites": [
+      "modern_js_frameworks"
+    ]
+  },
+  {
+    "id": "frontend_testing",
+    "name": "Frontend Testing",
+    "aliases": [
+      "jest",
+      "cypress",
+      "component testing"
+    ],
+    "cluster": "frontend",
+    "prerequisites": [
+      "modern_js_frameworks"
+    ]
+  },
+  {
+    "id": "build_tools",
+    "name": "Build Tools & Bundlers",
+    "aliases": [
+      "webpack",
+      "vite",
+      "npm",
+      "module bundlers"
+    ],
+    "cluster": "frontend",
+    "prerequisites": [
+      "modern_js_frameworks",
+      "command_line"
+    ]
+  },
+  {
+    "id": "frontend_performance",
+    "name": "Frontend Performance",
+    "aliases": [
+      "lazy loading",
+      "web vitals",
+      "performance optimization"
+    ],
+    "cluster": "frontend",
+    "prerequisites": [
+      "build_tools",
+      "frontend_testing"
+    ]
+  }
+]

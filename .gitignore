@@ -6,3 +6,10 @@ data/raw/
 data/indices/
 *.db
 .pytest_cache/
+*.py[cod]
+*.db
+.env
+.pytest_cache/
+.streamlit/secrets.toml
+data/raw/
+data/indices/
