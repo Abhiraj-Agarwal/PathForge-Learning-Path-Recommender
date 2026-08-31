@@ -9,5 +9,6 @@ numpy==2.5.2
 streamlit
 requests
 plotly
+pandas
 graphviz
 langgraph

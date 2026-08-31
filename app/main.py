@@ -1,7 +1,8 @@
 """PathForge -- Streamlit entry point.
 
-Session bootstrap + three tabs. Every view consumes fixtures from ``mock``
-until Person A's FastAPI backend is wired through ``api_client``.
+Session bootstrap + three tabs. The real planning pipeline runs in-process
+via ``engine.py`` (no separate API server yet); ``mock`` supplies fixtures
+for the parts of the UI a plan hasn't been generated for yet.
 """
 import sys
 from pathlib import Path
