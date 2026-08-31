@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "course_001",
+    "title": "Introduction to Programming",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn",
+    "description": "Introduction to Programming -- a beginner-level resource tagged for programming_basics.",
+    "level": "beginner",
+    "rating": 4.6,
+    "duration_hours": 60,
+    "skill_tags": [
+      "intro to programming",
+      "programming basics",
+      "coding basics"
+    ],
+    "skill_ids": [
+      "programming_basics"
+    ]
+  },
+  {
+    "id": "course_002",
+    "title": "Python for Everybody",
+    "provider": "Coursera",
+    "url": "https://www.py4e.com",
+    "description": "Python for Everybody -- a beginner-level resource tagged for python_basics.",
+    "level": "beginner",
+    "rating": 4.8,
+    "duration_hours": 60,
+    "skill_tags": [
+      "python",
+      "python basics",
+      "programming"
+    ],
+    "skill_ids": [
+      "python_basics"
+    ]
+  },
+  {
+    "id": "course_003",
+    "title": "Automate the Boring Stuff with Python",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com",
+    "description": "Automate the Boring Stuff with Python -- a beginner-level resource tagged for python_basics.",
+    "level": "beginner",
+    "rating": 4.7,
+    "duration_hours": 40,
+    "skill_tags": [
+      "python3",
+      "python",
+      "automation"
+    ],
+    "skill_ids": [
+      "python_basics"
+    ]
+  },
+  {
+    "id": "course_004",
+    "title": "Data Structures and Algorithms",
+    "provider": "edX",
+    "url": "https://www.edx.org",
+    "description": "Data Structures and Algorithms -- a intermediate-level resource tagged for data_structures.",
+    "level": "intermediate",
+    "rating": 4.5,
+    "duration_hours": 80,
+    "skill_tags": [
+      "dsa",
+      "algorithms",
+      "data structures"
+    ],
+    "skill_ids": [
+      "data_structures"
+    ]
+  },
+  {
+    "id": "course_005",
+    "title": "Version Control with Git",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "description": "Version Control with Git -- a beginner-level resource tagged for git_github.",
+    "level": "beginner",
+    "rating": 4.6,
+    "duration_hours": 20,
+    "skill_tags": [
+      "git",
+      "github",
+      "version control"
+    ],
+    "skill_ids": [
+      "git_github"
+    ]
+  },
+  {
+    "id": "course_006",
+    "title": "The Linux Command Line",
+    "provider": "edX",
+    "url": "https://www.edx.org",
+    "description": "The Linux Command Line -- a beginner-level resource tagged for command_line.",
+    "level": "beginner",
+    "rating": 4.4,
+    "duration_hours": 30,
+    "skill_tags": [
+      "linux",
+      "bash",
+      "terminal"
+    ],
+    "skill_ids": [
+      "command_line"
+    ]
+  },
+  {
+    "id": "course_007",
+    "title": "Database Design and Modelling",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "Database Design and Modelling -- a intermediate-level resource tagged for database_fundamentals.",
+    "level": "intermediate",
+    "rating": 4.5,
+    "duration_hours": 35,
+    "skill_tags": [
+      "databases",
+      "rdbms",
+      "sql basics"
+    ],
+    "skill_ids": [
+      "database_fundamentals",
+      "sql_basics"
+    ]
+  },
+  {
+    "id": "course_008",
+    "title": "SQL for Data Science",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "SQL for Data Science -- a beginner-level resource tagged for sql_basics.",
+    "level": "beginner",
+    "rating": 4.7,
+    "duration_hours": 25,
+    "skill_tags": [
+      "sql",
+      "structured query language",
+      "queries"
+    ],
+    "skill_ids": [
+      "sql_basics"
+    ]
+  },
+  {
+    "id": "course_009",
+    "title": "Linear Algebra for Machine Learning",
+    "provider": "YouTube",
+    "url": "https://www.deeplearning.ai",
+    "description": "Linear Algebra for Machine Learning -- a intermediate-level resource tagged for linear_algebra.",
+    "level": "intermediate",
+    "rating": 4.7,
+    "duration_hours": 18,
+    "skill_tags": [
+      "linear algebra",
+      "matrices",
+      "vectors"
+    ],
+    "skill_ids": [
+      "linear_algebra"
+    ]
+  },
+  {
+    "id": "course_010",
+    "title": "Statistics Fundamentals",
+    "provider": "Khan Academy",
+    "url": "https://www.khanacademy.org",
+    "description": "Statistics Fundamentals -- a beginner-level resource tagged for probability_statistics.",
+    "level": "beginner",
+    "rating": 4.8,
+    "duration_hours": 30,
+    "skill_tags": [
+      "statistics",
+      "probability",
+      "inference"
+    ],
+    "skill_ids": [
+      "probability_statistics"
+    ]
+  },
+  {
+    "id": "course_011",
+    "title": "Calculus Made Easy",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com",
+    "description": "Calculus Made Easy -- a intermediate-level resource tagged for calculus.",
+    "level": "intermediate",
+    "rating": 4.3,
+    "duration_hours": 20,
+    "skill_tags": [
+      "calculus",
+      "derivatives"
+    ],
+    "skill_ids": [
+      "calculus"
+    ]
+  },
+  {
+    "id": "course_012",
+    "title": "NumPy and Pandas for Data Analysis",
+    "provider": "Datacamp",
+    "url": "https://www.datacamp.com",
+    "description": "NumPy and Pandas for Data Analysis -- a intermediate-level resource tagged for python_ml_tooling.",
+    "level": "intermediate",
+    "rating": 4.6,
+    "duration_hours": 25,
+    "skill_tags": [
+      "numpy",
+      "pandas",
+      "scientific python"
+    ],
+    "skill_ids": [
+      "python_ml_tooling"
+    ]
+  },
+  {
+    "id": "course_013",
+    "title": "Data Visualization with Matplotlib and Seaborn",
+    "provider": "Datacamp",
+    "url": "https://www.datacamp.com",
+    "description": "Data Visualization with Matplotlib and Seaborn -- a intermediate-level resource tagged for data_visualization.",
+    "level": "intermediate",
+    "rating": 4.4,
+    "duration_hours": 20,
+    "skill_tags": [
+      "matplotlib",
+      "seaborn",
+      "data viz"
+    ],
+    "skill_ids": [
+      "data_visualization"
+    ]
+  },
+  {
+    "id": "course_014",
+    "title": "Machine Learning Specialization",
+    "provider": "DeepLearning.AI",
+    "url": "https://www.deeplearning.ai",
+    "description": "Machine Learning Specialization -- a beginner-level resource tagged for ml_fundamentals.",
+    "level": "beginner",
+    "rating": 4.9,
+    "duration_hours": 60,
+    "skill_tags": [
+      "machine learning",
+      "ml basics",
+      "supervised learning"
+    ],
+    "skill_ids": [
+      "ml_fundamentals",
+      "supervised_learning"
+    ]
+  },
+  {
+    "id": "course_015",
+    "title": "Applied Machine Learning with scikit-learn",
+    "provider": "edX",
+    "url": "https://www.edx.org",
+    "description": "Applied Machine Learning with scikit-learn -- a intermediate-level resource tagged for supervised_learning.",
+    "level": "intermediate",
+    "rating": 4.6,
+    "duration_hours": 40,
+    "skill_tags": [
+      "scikit-learn",
+      "regression",
+      "classification"
+    ],
+    "skill_ids": [
+      "supervised_learning"
+    ]
+  },
+  {
+    "id": "course_016",
+    "title": "Machine Learning Model Evaluation",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "Machine Learning Model Evaluation -- a intermediate-level resource tagged for model_evaluation.",
+    "level": "intermediate",
+    "rating": 4.5,
+    "duration_hours": 15,
+    "skill_tags": [
+      "cross validation",
+      "model validation",
+      "metrics"
+    ],
+    "skill_ids": [
+      "model_evaluation"
+    ]
+  },
+  {
+    "id": "course_017",
+    "title": "Feature Engineering for Machine Learning",
+    "provider": "Kaggle Learn",
+    "url": "https://www.kaggle.com/learn",
+    "description": "Feature Engineering for Machine Learning -- a intermediate-level resource tagged for feature_engineering.",
+    "level": "intermediate",
+    "rating": 4.5,
+    "duration_hours": 12,
+    "skill_tags": [
+      "feature engineering",
+      "data preprocessing"
+    ],
+    "skill_ids": [
+      "feature_engineering"
+    ]
+  },
+  {
+    "id": "course_018",
+    "title": "Neural Networks and Deep Learning",
+    "provider": "DeepLearning.AI",
+    "url": "https://www.deeplearning.ai",
+    "description": "Neural Networks and Deep Learning -- a intermediate-level resource tagged for deep_learning.",
+    "level": "intermediate",
+    "rating": 4.9,
+    "duration_hours": 30,
+    "skill_tags": [
+      "deep learning",
+      "neural networks",
+      "backpropagation"
+    ],
+    "skill_ids": [
+      "deep_learning"
+    ]
+  },
+  {
+    "id": "course_019",
+    "title": "PyTorch for Deep Learning",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com",
+    "description": "PyTorch for Deep Learning -- a intermediate-level resource tagged for neural_networks.",
+    "level": "intermediate",
+    "rating": 4.7,
+    "duration_hours": 25,
+    "skill_tags": [
+      "pytorch",
+      "tensorflow",
+      "keras"
+    ],
+    "skill_ids": [
+      "neural_networks"
+    ]
+  },
+  {
+    "id": "course_020",
+    "title": "Deep Learning for Computer Vision",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "Deep Learning for Computer Vision -- a advanced-level resource tagged for computer_vision.",
+    "level": "advanced",
+    "rating": 4.7,
+    "duration_hours": 35,
+    "skill_tags": [
+      "computer vision",
+      "cnn",
+      "object detection"
+    ],
+    "skill_ids": [
+      "computer_vision",
+      "neural_networks"
+    ]
+  },
+  {
+    "id": "course_021",
+    "title": "Natural Language Processing with Deep Learning",
+    "provider": "edX",
+    "url": "https://www.edx.org",
+    "description": "Natural Language Processing with Deep Learning -- a advanced-level resource tagged for nlp.",
+    "level": "advanced",
+    "rating": 4.8,
+    "duration_hours": 40,
+    "skill_tags": [
+      "nlp",
+      "text mining",
+      "language models"
+    ],
+    "skill_ids": [
+      "nlp"
+    ]
+  },
+  {
+    "id": "course_022",
+    "title": "Docker and Kubernetes: The Complete Guide",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com",
+    "description": "Docker and Kubernetes: The Complete Guide -- a intermediate-level resource tagged for docker.",
+    "level": "intermediate",
+    "rating": 4.6,
+    "duration_hours": 27,
+    "skill_tags": [
+      "docker",
+      "containers",
+      "kubernetes"
+    ],
+    "skill_ids": [
+      "docker",
+      "kubernetes"
+    ]
+  },
+  {
+    "id": "course_023",
+    "title": "Kubernetes for Developers",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "Kubernetes for Developers -- a advanced-level resource tagged for kubernetes.",
+    "level": "advanced",
+    "rating": 4.4,
+    "duration_hours": 22,
+    "skill_tags": [
+      "k8s",
+      "container orchestration"
+    ],
+    "skill_ids": [
+      "kubernetes"
+    ]
+  },
+  {
+    "id": "course_024",
+    "title": "AWS Fundamentals Specialization",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "AWS Fundamentals Specialization -- a beginner-level resource tagged for cloud_platforms.",
+    "level": "beginner",
+    "rating": 4.6,
+    "duration_hours": 34,
+    "skill_tags": [
+      "aws",
+      "cloud computing",
+      "ec2"
+    ],
+    "skill_ids": [
+      "cloud_platforms"
+    ]
+  },
+  {
+    "id": "course_025",
+    "title": "Machine Learning Engineering for Production",
+    "provider": "DeepLearning.AI",
+    "url": "https://www.deeplearning.ai",
+    "description": "Machine Learning Engineering for Production -- a intermediate-level resource tagged for mlops.",
+    "level": "intermediate",
+    "rating": 4.7,
+    "duration_hours": 38,
+    "skill_tags": [
+      "mlops",
+      "ml pipeline",
+      "model serving"
+    ],
+    "skill_ids": [
+      "mlops"
+    ]
+  },
+  {
+    "id": "course_026",
+    "title": "Data Pipelines with Airflow",
+    "provider": "Datacamp",
+    "url": "https://www.datacamp.com",
+    "description": "Data Pipelines with Airflow -- a intermediate-level resource tagged for ml_pipelines.",
+    "level": "intermediate",
+    "rating": 4.4,
+    "duration_hours": 16,
+    "skill_tags": [
+      "airflow",
+      "pipeline automation"
+    ],
+    "skill_ids": [
+      "ml_pipelines"
+    ]
+  },
+  {
+    "id": "course_027",
+    "title": "Apache Spark Essentials",
+    "provider": "Datacamp",
+    "url": "https://www.datacamp.com",
+    "description": "Apache Spark Essentials -- a intermediate-level resource tagged for big_data_tools.",
+    "level": "intermediate",
+    "rating": 4.5,
+    "duration_hours": 21,
+    "skill_tags": [
+      "spark",
+      "distributed computing"
+    ],
+    "skill_ids": [
+      "big_data_tools"
+    ]
+  },
+  {
+    "id": "course_028",
+    "title": "Deploying Machine Learning Models",
+    "provider": "Pluralsight",
+    "url": "https://www.pluralsight.com",
+    "description": "Deploying Machine Learning Models -- a advanced-level resource tagged for model_deployment.",
+    "level": "advanced",
+    "rating": 4.3,
+    "duration_hours": 18,
+    "skill_tags": [
+      "model serving",
+      "model api",
+      "rest api"
+    ],
+    "skill_ids": [
+      "mlops",
+      "model_deployment",
+      "rest_api_design"
+    ]
+  },
+  {
+    "id": "course_029",
+    "title": "Excel Skills for Business",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "Excel Skills for Business -- a beginner-level resource tagged for excel_analytics.",
+    "level": "beginner",
+    "rating": 4.8,
+    "duration_hours": 30,
+    "skill_tags": [
+      "excel",
+      "spreadsheets"
+    ],
+    "skill_ids": [
+      "excel_analytics"
+    ]
+  },
+  {
+    "id": "course_030",
+    "title": "Data Wrangling in Python",
+    "provider": "DataCamp",
+    "url": "https://www.datacamp.com",
+    "description": "Data Wrangling in Python -- a intermediate-level resource tagged for data_wrangling.",
+    "level": "intermediate",
+    "rating": 4.5,
+    "duration_hours": 20,
+    "skill_tags": [
+      "data cleaning",
+      "pandas",
+      "data munging"
+    ],
+    "skill_ids": [
+      "data_wrangling",
+      "python_ml_tooling"
+    ]
+  },
+  {
+    "id": "course_031",
+    "title": "Statistical Inference for Data Science",
+    "provider": "edX",
+    "url": "https://www.edx.org",
+    "description": "Statistical Inference for Data Science -- a intermediate-level resource tagged for statistical_analysis.",
+    "level": "intermediate",
+    "rating": 4.5,
+    "duration_hours": 28,
+    "skill_tags": [
+      "hypothesis testing",
+      "regression analysis",
+      "statistics"
+    ],
+    "skill_ids": [
+      "statistical_analysis",
+      "probability_statistics"
+    ]
+  },
+  {
+    "id": "course_032",
+    "title": "Exploratory Data Analysis with Python",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "Exploratory Data Analysis with Python -- a intermediate-level resource tagged for exploratory_data_analysis.",
+    "level": "intermediate",
+    "rating": 4.6,
+    "duration_hours": 24,
+    "skill_tags": [
+      "eda",
+      "data exploration",
+      "data viz"
+    ],
+    "skill_ids": [
+      "exploratory_data_analysis",
+      "data_visualization"
+    ]
+  },
+  {
+    "id": "course_033",
+    "title": "Advanced SQL: Windows Functions and Optimisation",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com",
+    "description": "Advanced SQL: Windows Functions and Optimisation -- a advanced-level resource tagged for sql_advanced.",
+    "level": "advanced",
+    "rating": 4.5,
+    "duration_hours": 14,
+    "skill_tags": [
+      "window functions",
+      "advanced sql",
+      "query optimization"
+    ],
+    "skill_ids": [
+      "sql_advanced"
+    ]
+  },
+  {
+    "id": "course_034",
+    "title": "Business Intelligence and Dashboards",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "Business Intelligence and Dashboards -- a intermediate-level resource tagged for business_intelligence.",
+    "level": "intermediate",
+    "rating": 4.4,
+    "duration_hours": 26,
+    "skill_tags": [
+      "bi",
+      "reporting",
+      "kpi dashboards"
+    ],
+    "skill_ids": [
+      "business_intelligence"
+    ]
+  },
+  {
+    "id": "course_035",
+    "title": "Data Storytelling",
+    "provider": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning",
+    "description": "Data Storytelling -- a beginner-level resource tagged for data_storytelling.",
+    "level": "beginner",
+    "rating": 4.5,
+    "duration_hours": 8,
+    "skill_tags": [
+      "data storytelling",
+      "narrative",
+      "presentations"
+    ],
+    "skill_ids": [
+      "data_storytelling"
+    ]
+  },
+  {
+    "id": "course_036",
+    "title": "A/B Testing and Experimentation",
+    "provider": "edX",
+    "url": "https://www.edx.org",
+    "description": "A/B Testing and Experimentation -- a intermediate-level resource tagged for ab_testing.",
+    "level": "intermediate",
+    "rating": 4.4,
+    "duration_hours": 12,
+    "skill_tags": [
+      "a/b testing",
+      "experiment design",
+      "hypothesis tests"
+    ],
+    "skill_ids": [
+      "ab_testing",
+      "typescript"
+    ]
+  },
+  {
+    "id": "course_037",
+    "title": "Tableau Data Visualisation",
+    "provider": "Pluralsight",
+    "url": "https://www.pluralsight.com",
+    "description": "Tableau Data Visualisation -- a intermediate-level resource tagged for dashboard_tools.",
+    "level": "intermediate",
+    "rating": 4.3,
+    "duration_hours": 20,
+    "skill_tags": [
+      "tableau",
+      "power bi",
+      "looker"
+    ],
+    "skill_ids": [
+      "dashboard_tools"
+    ]
+  },
+  {
+    "id": "course_038",
+    "title": "HTTP Fundamentals",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn",
+    "description": "HTTP Fundamentals -- a beginner-level resource tagged for http_apis.",
+    "level": "beginner",
+    "rating": 4.4,
+    "duration_hours": 10,
+    "skill_tags": [
+      "http",
+      "json",
+      "api basics"
+    ],
+    "skill_ids": [
+      "http_apis"
+    ]
+  },
+  {
+    "id": "course_039",
+    "title": "Consuming REST APIs Hands-On",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com",
+    "description": "Consuming REST APIs Hands-On -- a beginner-level resource tagged for apis_consumption.",
+    "level": "beginner",
+    "rating": 4.3,
+    "duration_hours": 10,
+    "skill_tags": [
+      "requests",
+      "api integration",
+      "rest"
+    ],
+    "skill_ids": [
+      "apis_consumption",
+      "rest_api_design"
+    ]
+  },
+  {
+    "id": "course_040",
+    "title": "REST API Design Best Practices",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "REST API Design Best Practices -- a intermediate-level resource tagged for rest_api_design.",
+    "level": "intermediate",
+    "rating": 4.4,
+    "duration_hours": 14,
+    "skill_tags": [
+      "rest",
+      "api design",
+      "openapi"
+    ],
+    "skill_ids": [
+      "rest_api_design"
+    ]
+  },
+  {
+    "id": "course_041",
+    "title": "FastAPI Web Development",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com",
+    "description": "FastAPI Web Development -- a intermediate-level resource tagged for web_frameworks.",
+    "level": "intermediate",
+    "rating": 4.6,
+    "duration_hours": 22,
+    "skill_tags": [
+      "fastapi",
+      "flask",
+      "django"
+    ],
+    "skill_ids": [
+      "web_frameworks"
+    ]
+  },
+  {
+    "id": "course_042",
+    "title": "Web Security and Authentication",
+    "provider": "edX",
+    "url": "https://www.edx.org",
+    "description": "Web Security and Authentication -- a intermediate-level resource tagged for authentication.",
+    "level": "intermediate",
+    "rating": 4.3,
+    "duration_hours": 18,
+    "skill_tags": [
+      "oauth",
+      "jwt",
+      "security"
+    ],
+    "skill_ids": [
+      "authentication"
+    ]
+  },
+  {
+    "id": "course_043",
+    "title": "Redis and Caching Patterns",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com",
+    "description": "Redis and Caching Patterns -- a intermediate-level resource tagged for caching.",
+    "level": "intermediate",
+    "rating": 4.4,
+    "duration_hours": 15,
+    "skill_tags": [
+      "redis",
+      "caching",
+      "performance"
+    ],
+    "skill_ids": [
+      "caching"
+    ]
+  },
+  {
+    "id": "course_044",
+    "title": "Kafka Streams in Practice",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "Kafka Streams in Practice -- a advanced-level resource tagged for message_queues.",
+    "level": "advanced",
+    "rating": 4.3,
+    "duration_hours": 20,
+    "skill_tags": [
+      "kafka",
+      "message queues",
+      "event streaming"
+    ],
+    "skill_ids": [
+      "message_queues"
+    ]
+  },
+  {
+    "id": "course_045",
+    "title": "Test-Driven Development with Python",
+    "provider": "edX",
+    "url": "https://www.edx.org",
+    "description": "Test-Driven Development with Python -- a intermediate-level resource tagged for testing_backend.",
+    "level": "intermediate",
+    "rating": 4.5,
+    "duration_hours": 16,
+    "skill_tags": [
+      "pytest",
+      "unit testing",
+      "tdd"
+    ],
+    "skill_ids": [
+      "testing_backend"
+    ]
+  },
+  {
+    "id": "course_046",
+    "title": "Microservices Architecture",
+    "provider": "Pluralsight",
+    "url": "https://www.pluralsight.com",
+    "description": "Microservices Architecture -- a advanced-level resource tagged for microservices.",
+    "level": "advanced",
+    "rating": 4.2,
+    "duration_hours": 24,
+    "skill_tags": [
+      "microservices",
+      "distributed systems"
+    ],
+    "skill_ids": [
+      "microservices"
+    ]
+  },
+  {
+    "id": "course_047",
+    "title": "Serverless with AWS Lambda",
+    "provider": "edX",
+    "url": "https://www.edx.org",
+    "description": "Serverless with AWS Lambda -- a intermediate-level resource tagged for serverless.",
+    "level": "intermediate",
+    "rating": 4.3,
+    "duration_hours": 14,
+    "skill_tags": [
+      "lambda",
+      "serverless",
+      "cloud functions"
+    ],
+    "skill_ids": [
+      "serverless"
+    ]
+  },
+  {
+    "id": "course_048",
+    "title": "CI/CD with GitHub Actions",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "description": "CI/CD with GitHub Actions -- a intermediate-level resource tagged for backend_deployment.",
+    "level": "intermediate",
+    "rating": 4.5,
+    "duration_hours": 12,
+    "skill_tags": [
+      "ci/cd",
+      "devops",
+      "deployment"
+    ],
+    "skill_ids": [
+      "backend_deployment"
+    ]
+  },
+  {
+    "id": "course_049",
+    "title": "Responsive Web Design",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn",
+    "description": "Responsive Web Design -- a beginner-level resource tagged for html_css.",
+    "level": "beginner",
+    "rating": 4.8,
+    "duration_hours": 300,
+    "skill_tags": [
+      "html",
+      "css",
+      "responsive design"
+    ],
+    "skill_ids": [
+      "html_css",
+      "responsive_design"
+    ]
+  },
+  {
+    "id": "course_050",
+    "title": "JavaScript Algorithms and Data Structures",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn",
+    "description": "JavaScript Algorithms and Data Structures -- a beginner-level resource tagged for javascript.",
+    "level": "beginner",
+    "rating": 4.8,
+    "duration_hours": 300,
+    "skill_tags": [
+      "javascript",
+      "es6",
+      "js"
+    ],
+    "skill_ids": [
+      "javascript"
+    ]
+  },
+  {
+    "id": "course_051",
+    "title": "Modern JavaScript and the DOM",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com",
+    "description": "Modern JavaScript and the DOM -- a intermediate-level resource tagged for dom_manipulation.",
+    "level": "intermediate",
+    "rating": 4.5,
+    "duration_hours": 18,
+    "skill_tags": [
+      "dom",
+      "browser apis",
+      "events"
+    ],
+    "skill_ids": [
+      "dom_manipulation"
+    ]
+  },
+  {
+    "id": "course_052",
+    "title": "TypeScript Essentials",
+    "provider": "Pluralsight",
+    "url": "https://www.pluralsight.com",
+    "description": "TypeScript Essentials -- a intermediate-level resource tagged for typescript.",
+    "level": "intermediate",
+    "rating": 4.4,
+    "duration_hours": 12,
+    "skill_tags": [
+      "typescript",
+      "typed javascript"
+    ],
+    "skill_ids": [
+      "typescript"
+    ]
+  },
+  {
+    "id": "course_053",
+    "title": "React and Modern Frontend Frameworks",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "React and Modern Frontend Frameworks -- a intermediate-level resource tagged for modern_js_frameworks.",
+    "level": "intermediate",
+    "rating": 4.7,
+    "duration_hours": 40,
+    "skill_tags": [
+      "react",
+      "vue",
+      "component frameworks"
+    ],
+    "skill_ids": [
+      "modern_js_frameworks"
+    ]
+  },
+  {
+    "id": "course_054",
+    "title": "Tailwind CSS and Bootstrap",
+    "provider": "YouTube",
+    "url": "https://www.youtube.com",
+    "description": "Tailwind CSS and Bootstrap -- a beginner-level resource tagged for css_frameworks.",
+    "level": "beginner",
+    "rating": 4.4,
+    "duration_hours": 10,
+    "skill_tags": [
+      "tailwind",
+      "bootstrap",
+      "css"
+    ],
+    "skill_ids": [
+      "css_frameworks",
+      "html_css"
+    ]
+  },
+  {
+    "id": "course_055",
+    "title": "Mobile-First Responsive Design",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "description": "Mobile-First Responsive Design -- a beginner-level resource tagged for responsive_design.",
+    "level": "beginner",
+    "rating": 4.5,
+    "duration_hours": 20,
+    "skill_tags": [
+      "responsive design",
+      "media queries",
+      "mobile web"
+    ],
+    "skill_ids": [
+      "responsive_design"
+    ]
+  },
+  {
+    "id": "course_056",
+    "title": "Fetching Data in the Browser",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com",
+    "description": "Fetching Data in the Browser -- a intermediate-level resource tagged for api_integration_frontend.",
+    "level": "intermediate",
+    "rating": 4.3,
+    "duration_hours": 10,
+    "skill_tags": [
+      "fetch",
+      "axios",
+      "api consumption"
+    ],
+    "skill_ids": [
+      "api_integration_frontend"
+    ]
+  },
+  {
+    "id": "course_057",
+    "title": "State Management with Redux and Context",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "State Management with Redux and Context -- a intermediate-level resource tagged for state_management.",
+    "level": "intermediate",
+    "rating": 4.5,
+    "duration_hours": 14,
+    "skill_tags": [
+      "redux",
+      "state management",
+      "context api"
+    ],
+    "skill_ids": [
+      "state_management"
+    ]
+  },
+  {
+    "id": "course_058",
+    "title": "Test Frontend Apps with Jest and Cypress",
+    "provider": "Udemy",
+    "url": "https://www.udemy.com",
+    "description": "Test Frontend Apps with Jest and Cypress -- a intermediate-level resource tagged for frontend_testing.",
+    "level": "intermediate",
+    "rating": 4.4,
+    "duration_hours": 13,
+    "skill_tags": [
+      "jest",
+      "cypress",
+      "component testing"
+    ],
+    "skill_ids": [
+      "frontend_testing"
+    ]
+  },
+  {
+    "id": "course_059",
+    "title": "Webpack and Vite Build Tooling",
+    "provider": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "description": "Webpack and Vite Build Tooling -- a intermediate-level resource tagged for build_tools.",
+    "level": "intermediate",
+    "rating": 4.3,
+    "duration_hours": 12,
+    "skill_tags": [
+      "webpack",
+      "vite",
+      "npm"
+    ],
+    "skill_ids": [
+      "build_tools"
+    ]
+  },
+  {
+    "id": "course_060",
+    "title": "Web Performance and Core Web Vitals",
+    "provider": "Coursera",
+    "url": "https://www.coursera.org",
+    "description": "Web Performance and Core Web Vitals -- a advanced-level resource tagged for frontend_performance.",
+    "level": "advanced",
+    "rating": 4.4,
+    "duration_hours": 12,
+    "skill_tags": [
+      "web vitals",
+      "lazy loading",
+      "performance"
+    ],
+    "skill_ids": [
+      "frontend_performance"
+    ]
+  }
+]
