@@ -9,7 +9,5 @@ numpy==2.5.2
 streamlit
 requests
 plotly
-networkx
-pydantic
+graphviz
 langgraph
-pytest
